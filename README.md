@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **brahmanand.2708@gmail.com**
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmanand09&label=Profile%20views&color=0e75b6&style=flat" alt="brahmanand09" /> </p>
-
+- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahmanand09" alt="brahmanand09" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
