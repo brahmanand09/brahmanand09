@@ -3,11 +3,11 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+- 🔭 I’m currently **doing B Tech(Computer Science & Engineering)**
 - 🌱 I’m currently learning **JavaScript and ReactJS**
 
 - 📫 How to reach me **brahmanand.2708@gmail.com**
 
-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahmanand09" alt="brahmanand09" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
