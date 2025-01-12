@@ -3,7 +3,7 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently **doing B Tech(Computer Science & Engineering)**
+- 🔭 I have **completed my B Tech(Computer Science & Engineering)**
 - 🌱 I’m currently learning **JavaScript, ReactJS, Node.js, Express.js, EJS and MongoDB**
 
 - 📫 How to reach me **brahmanand.2708@gmail.com**
