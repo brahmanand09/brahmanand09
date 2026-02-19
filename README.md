@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brahmanand Mourya</h1>
-<h3 align="center">Full-Stack Developer | Node.js Backend Engineer | DPMS Specialist</h3>
+<h3 align="center">Full-Stack Developer (MERN) | Node.js Backend Engineer </h3>
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-🔭 Software Developer with **1.7+ years of experience** in building scalable Healthcare & Pharmacy Management Systems (DPMS - Digital Pharmacy Management System).
+🔭 Software Developer with **1.7+ years of experience** in building scalable Healthcare & Pharmacy Management Systems (Digital Pharmacy Management System).
 
 💡 Strong expertise in:
 - Node.js, Express.js, MongoDB, MySQL
@@ -26,9 +26,11 @@
 ## 🌱 Currently Exploring
 
 - Advanced Backend Architecture
+- Core Concept
 - System Design Concepts
 - CI/CD Pipelines
 - Scalable Application Design
+- Docker & Kubernet
 
 ---
 
@@ -47,7 +49,7 @@ Git | GitHub | Jira | Postman | Agile (Scrum) | CI/CD Basics | AWS | WinSCP
 
 ## 📌 Featured Work
 
-🏥 **Digital Pharmacy Management System (DPMS)**  
+🏥 **Digital Pharmacy Management System**  
 ✔ Batch-level Inventory Management  
 ✔ Invoice Locking & Returns  
 ✔ Patient Ledger System  
