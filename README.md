@@ -1,30 +1,101 @@
 <h1 align="center">Hi 👋, I'm Brahmanand Mourya</h1>
-<h3 align="center">A passionate Web Development and Software Engineer from India</h3>
+<h3 align="center">Full-Stack Developer | Node.js Backend Engineer | DPMS Specialist</h3>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 Software Developer with 1.7+ years of experience in Node.js, Express.js, MongoDB, and EJS, building scalable production-ready healthcare & pharmacy management systems including DPMS (Digital Pharmacy Management System). Experienced in working with Agile methodologies, sprint-based development, and CI/CD pipelines for continuous integration and deployment. Optimized secure REST APIs with 30–45% faster response times using indexing, pagination, and efficient database queries, with a strong focus on clean architecture and maintainable code.
-  
-- 🌱 I’m currently learning **JavaScript, ReactJS, Node.js, Express.js, EJS and MongoDB**
+---
 
-- 📫 How to reach me **brahmanandmoury@gmail.com**
-- Protfolio website **https://brahmanand09.github.io/My_Portfolio/**
+## 🚀 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahmanand09" alt="brahmanand09" /></a> </p>
+🔭 Software Developer with **1.7+ years of experience** in building scalable Healthcare & Pharmacy Management Systems (DPMS - Digital Pharmacy Management System).
 
-<h3 align="left">Connect with me:</h3>
+💡 Strong expertise in:
+- Node.js, Express.js, MongoDB, MySQL
+- REST API Design & Optimization
+- Role-Based Access Control (RBAC)
+- JWT Authentication
+- MongoDB Transactions
+- Inventory & Billing Systems
+- Agile (Scrum) Methodology
+- CI/CD Fundamentals & AWS Deployment
+
+⚡ Improved API response time by **30–45%** using indexing, pagination, and optimized queries.
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Backend Architecture
+- System Design Concepts
+- CI/CD Pipelines
+- Scalable Application Design
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Backend
+Node.js | Express.js | REST APIs | JWT | MongoDB | MySQL | Mongoose | Sequelize
+
+### 🎨 Frontend
+HTML | CSS | EJS | React.js | Bootstrap | Tailwind CSS
+
+### ⚙️ Tools & Practices
+Git | GitHub | Jira | Postman | Agile (Scrum) | CI/CD Basics | AWS | WinSCP
+
+---
+
+## 📌 Featured Work
+
+🏥 **Digital Pharmacy Management System (DPMS)**  
+✔ Batch-level Inventory Management  
+✔ Invoice Locking & Returns  
+✔ Patient Ledger System  
+✔ Multi-User Role-Based Portal  
+✔ Sales Dashboard with Graph Analytics  
+
+📄 **Automated Medical PDF Report Generator**  
+✔ Multi-page Dynamic Reports  
+✔ PDF Merging (PDFKit + pdf-lib)  
+✔ Watermarks, Tables & Structured Layouts  
+
+---
+
+## 📫 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brahmanand09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brahmanand09/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/brahma_090203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/brahma_090203/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/brahmanandmourya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/brahmanandmourya/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mouryabn009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mouryabn009" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brahmanand09/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/brahma_090203" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/brahmanandmourya/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/mouryabn009" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+📧 Email: brahmanandmoury@gmail.com  
+🌐 Portfolio: https://brahmanand09.github.io/My_Portfolio/
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brahmanand09&show_icons=true&locale=en&layout=compact" alt="brahmanand09" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brahmanand09&show_icons=true&locale=en" alt="brahmanand09" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahmanand09&" alt="brahmanand09" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brahmanand09&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=brahmanand09&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahmanand09" />
+</p>
