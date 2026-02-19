@@ -3,11 +3,11 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 Software Developer with 1.5+ years of experience in Node.js, Express.js, MongoDB, and EJS, building scalable production-ready healthcare & pharmacy management systems including DPMS (Digital Pharmacy Management System). Experienced in working with Agile methodologies, sprint-based development, and CI/CD pipelines for continuous integration and deployment. Optimized secure REST APIs with 30–45% faster response times using indexing, pagination, and efficient database queries, with a strong focus on clean architecture and maintainable code.
+- 🔭 Software Developer with 1.7+ years of experience in Node.js, Express.js, MongoDB, and EJS, building scalable production-ready healthcare & pharmacy management systems including DPMS (Digital Pharmacy Management System). Experienced in working with Agile methodologies, sprint-based development, and CI/CD pipelines for continuous integration and deployment. Optimized secure REST APIs with 30–45% faster response times using indexing, pagination, and efficient database queries, with a strong focus on clean architecture and maintainable code.
   
 - 🌱 I’m currently learning **JavaScript, ReactJS, Node.js, Express.js, EJS and MongoDB**
 
-- 📫 How to reach me **brahmanand.2708@gmail.com**
+- 📫 How to reach me **brahmanandmoury@gmail.com**
 - Protfolio website **https://brahmanand09.github.io/My_Portfolio/**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahmanand09" alt="brahmanand09" /></a> </p>
