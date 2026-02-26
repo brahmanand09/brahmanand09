@@ -7,7 +7,16 @@
 
 ## 🚀 About Me
 
-🔭 Software Developer with **1.7+ years of experience** in building scalable Healthcare & Pharmacy Management Systems (Digital Pharmacy Management System).
+🔭 Backend & Full-Stack Developer specializing in HTML, CSS (BootStrap and Tailwind), JavaScript, EJS, Node.js, Express.js, MongoDB, and MySQL.
+
+Experienced in building production-grade systems including:
+• Doctor Patient Management System (DPMS) -> OPD and IPD Both with Role-Based Access Control
+• Garment Product Management Application (GPMA)
+• Pharmacy & Inventory Management Systems (Retailer and Wholesaler with Role-Based Access Control)
+
+Skilled in REST API design, JWT authentication, RBAC, database optimization, and MongoDB transactions. Worked in Agile environments and implemented CI/CD pipelines using Jenkins with Docker-based deployments.
+
+Passionate about scalable architecture, performance optimization, and clean code practices.
 
 💡 Strong expertise in:
 - Node.js, Express.js, MongoDB, MySQL
