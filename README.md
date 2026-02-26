@@ -19,7 +19,8 @@ Skilled in REST API design, JWT authentication, RBAC, database optimization, and
 Passionate about scalable architecture, performance optimization, and clean code practices.
 
 💡 Strong expertise in:
-- Node.js, Express.js, MongoDB, MySQL
+- Frontend -> HTML, CSS (BootStrap and Tailwind), JavaScript, EJS, React.js
+- Backend -> Node.js, Express.js, MongoDB, MySQL
 - REST API Design & Optimization
 - Role-Based Access Control (RBAC)
 - JWT Authentication
