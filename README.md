@@ -17,7 +17,7 @@
 - MongoDB Transactions
 - Inventory & Billing Systems
 - Agile (Scrum) Methodology
-- CI/CD Fundamentals & AWS Deployment
+- CI/CD Fundamentals (Jenkins) & AWS Deployment
 
 ⚡ Improved API response time by **30–45%** using indexing, pagination, and optimized queries.
 
@@ -28,7 +28,7 @@
 - Advanced Backend Architecture
 - Core Concept
 - System Design Concepts
-- CI/CD Pipelines
+- CI/CD Pipelines (Jenkins)
 - Scalable Application Design
 - Docker & Kubernet
 
