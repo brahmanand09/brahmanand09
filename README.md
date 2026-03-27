@@ -41,6 +41,7 @@ Passionate about scalable architecture, performance optimization, and clean code
 - CI/CD Pipelines (Jenkins)
 - Scalable Application Design
 - Docker & Kubernet
+- Microservice
 
 ---
 
