@@ -42,13 +42,17 @@ Passionate about scalable architecture, performance optimization, and clean code
 - Scalable Application Design
 - Docker & Kubernet
 - Microservice
+- Redis
+- RabbitMQ
+- Socket.io
+- Cloudinary 
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Backend
-Node.js | Express.js | REST APIs | JWT | MongoDB | MySQL | Mongoose | Sequelize
+Node.js | Express.js | REST APIs | JWT | MongoDB | MySQL | Mongoose
 
 ### 🎨 Frontend
 HTML | CSS | EJS | React.js | Bootstrap | Tailwind CSS
