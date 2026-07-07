@@ -99,7 +99,7 @@ Git | GitHub | Jira | Postman | Agile (Scrum) | CI/CD Basics | AWS | WinSCP
 </p>
 
 📧 Email: brahmanandmoury@gmail.com  
-🌐 Portfolio: https://brahmanand09.github.io/My_Portfolio/
+🌐 Portfolio: https://brahmanand-portfolio.vercel.app/
 
 ---
 
