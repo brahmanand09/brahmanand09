@@ -100,16 +100,6 @@
 
 ---
 
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/2563EB/brahmanand09" />
-
-</p>
-
----
-
 # 💬 Favorite Quote
 
 <p align="center">
