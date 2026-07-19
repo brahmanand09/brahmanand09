@@ -1,232 +1,230 @@
-<h1 align="center">Brahmanand Mourya</h1>
+<h1 align="center">Hi 👋, I'm Brahmanand Mourya</h1>
 
 <h3 align="center">
-Software Development Engineer (SDE-I) • Full-Stack & Backend Engineer
+Software Development Engineer • Full Stack Developer • Backend Engineer • Cloud Enthusiast
 </h3>
 
 <p align="center">
-Building scalable backend systems, high-performance web applications, cloud-native architectures, and real-time analytics platforms.
+Building scalable backend systems, high-performance web applications, and cloud-native solutions.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Backend+Engineer;Full+Stack+Developer;Cloud+Architecture;System+Design;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://brahmanand-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brahmanand09)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/brahmanandmourya/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mouryabn009)
+<a href="https://brahmanand-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/brahmanand09">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/brahmanandmourya/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/mouryabn009">
+<img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="mailto:brahmanandmoury@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ2NGJiYzYzNzNiM2UxZmI3NzgxNjNlZmU5YzcwMjQ2YzEyYjQ5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
-I'm a **Software Development Engineer (SDE-I)** passionate about designing scalable backend systems, cloud-native architectures, and modern full-stack applications.
+# 💫 About Me
 
-Currently working at **Sarrthi IAS (Physics Wallah)** where I build production-grade platforms used by thousands of users every day.
-
-### Highlights
-
-- 🚀 2+ years of professional software engineering experience
-- ⚡ Improved production API performance by **30–45%**
-- 📊 Built analytics systems processing **10,000+ daily records**
-- ☁️ Experienced with AWS, Cloudflare, Supabase and Serverless Architecture
-- 🔄 Strong focus on Backend Engineering, Database Optimization & System Design
+- 💼 Software Development Engineer at **Sarrthi IAS (Physics Wallah)**
+- 🚀 2+ Years of Professional Experience
+- ⚡ Passionate about Backend Engineering & System Design
+- ☁️ Building scalable cloud-native applications
+- 📊 Experienced with Real-Time Analytics Platforms
+- 🔥 Optimizing APIs, Databases & Distributed Systems
+- 🌱 Currently exploring High Scale System Design & Kubernetes
+- 💬 Ask me about **Node.js, Next.js, PostgreSQL, AWS, Supabase**
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ## Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css"/>
+
+</p>
 
 ## Frontend
 
-- React.js
-- Next.js
-- Tailwind CSS
-- HTML5
-- CSS3
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux"/>
+
+</p>
 
 ## Backend
 
-- Node.js
-- Express.js
-- REST APIs
-- Serverless Functions
-- Authentication & RBAC
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
 
 ## Databases
 
-- PostgreSQL
-- Supabase
-- MongoDB
-- MySQL
-- DynamoDB
-- Redis
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase"/>
+
+</p>
 
 ## Cloud & DevOps
 
-- AWS Lambda
-- Cloudflare Workers
-- Cloudflare R2
-- Docker
-- Jenkins
-- Git
-- RabbitMQ
-- Socket.io
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,cloudflare"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📞 CRM & Call Analytics Platform
+## 📞 CRM & Call Analytics Dashboard
 
-**Tech Stack**
+> **Next.js • Supabase • PostgreSQL • Zoho CRM • Exotel**
 
-Next.js • Supabase • PostgreSQL • Zoho CRM • Exotel
+✅ Real-time analytics dashboard
 
-### Key Contributions
+✅ 10K+ Daily Calls
 
-- Real-time dashboard processing **10K+ daily calls**
-- Sub-200ms reporting through optimized SQL views
-- Built duplicate detection using cryptographic fingerprint hashing
-- Automated CRM integrations and counselor analytics
+✅ Sub-200ms Dashboard
 
----
+✅ Duplicate Detection Algorithm
 
-## 🎥 Zoom Recording Management System
-
-**Tech Stack**
-
-React • Cloudflare Workers • Cloudflare R2 • Zoom API
-
-### Key Contributions
-
-- Automated synchronization of Zoom recordings
-- Permanent cloud archival replacing Zoom's storage limitation
-- Secure streaming APIs with range request support
-- Real-time mentor analytics dashboard
+✅ PostgreSQL Indexed Views
 
 ---
 
-## 📈 Sales & Mentorship Management Portal
+## 🎥 Zoom Evaluation Platform
 
-**Tech Stack**
+> **React • Cloudflare Workers • Cloudflare R2 • Zoom API**
 
-React • Node.js • DynamoDB • AWS Cognito • AWS SES
+✅ Automatic Cloud Recording Sync
 
-### Key Contributions
+✅ Lifetime Video Backup
 
-- Student allocation automation
-- RBAC implementation
-- CSV-based onboarding
-- Batch allocation engine
-- Analytics dashboards
+✅ Streaming APIs
+
+✅ Attendance Analytics
+
+---
+
+## 📈 Sales & Mentorship Portal
+
+> **React • AWS • DynamoDB • Cognito • Node.js**
+
+✅ Student Allocation Engine
+
+✅ Role Based Access Control
+
+✅ Financial Dashboard
+
+✅ Automated Batch Allocation
 
 ---
 
 <details>
 
-<summary><strong>More Projects</strong></summary>
+<summary><b>📦 More Projects</b></summary>
 
-### Healthcare Inventory Management
+### 🏥 Healthcare Inventory System
 
 - MERN Stack
+- Billing
+- Invoice Lock
+- Patient Ledger
 - Inventory Management
-- Billing System
-- Invoice Management
-- 250K+ medicine records
+- 250K+ Medicine Records
 
 ---
 
-### Real-Time Chat Application
+### 💬 Real-Time Chat Application
 
 - MERN
-- TypeScript
 - Redis
 - RabbitMQ
+- Socket.io
 - Docker
-
-Features
-
-- Authentication
-- WebSockets
-- Event-driven Architecture
-- Redis Cache
+- TypeScript
 
 ---
 
-### Stock Forecasting Platform
+### 📈 Stock Forecasting
 
 - Python
-- Artificial Neural Network
+- ANN
 - Dash
-
-Features
-
-- Historical Analysis
-- Trend Forecasting
-- Interactive Dashboard
+- Data Visualization
 
 </details>
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
-## Software Development Engineer (SDE-I)
-
-### Sarrthi IAS (Physics Wallah)
+## 🟦 SDE-I | Sarrthi IAS (Physics Wallah)
 
 **Apr 2026 – Present**
 
-- Built scalable backend systems using Next.js, Node.js, Supabase, AWS and Cloudflare
-- Reduced operational cost by ₹50K–₹60K/month by replacing third-party automation workflows
-- Developed Zoom Analytics Dashboard managing 4,000+ recordings
-- Built automated booking platform supporting 1,000+ active students
-- Developed financial dashboards and reporting systems
+- Built scalable backend services
+- Saved ₹50K–₹60K/month by replacing third-party automations
+- Developed Zoom Analytics Dashboard
+- Built Slot Booking System
+- Developed Financial Analytics Dashboard
 
 ---
 
-## Software Development Engineer (SDE-I)
-
-### LogiqueCode LLP
+## 🟨 SDE-I | LogiqueCode LLP
 
 **Jun 2024 – Apr 2026**
 
-- Developed enterprise web applications
-- Optimized API performance by 30–40%
-- Designed MongoDB indexing strategies
-- Implemented Docker-based deployments
-- Built Jenkins CI/CD pipelines
+- Enterprise Web Applications
+- Backend Development
+- Docker Deployment
+- Jenkins CI/CD
+- MongoDB Optimization
 
 ---
 
-## Software Developer Intern
+## 🟩 Software Developer Intern
 
-### LogiqueCode LLP
+**LogiqueCode LLP**
 
 **Feb 2024 – May 2024**
-
-Worked on backend development, REST APIs and production deployments.
 
 ---
 
 # 🎓 Education
 
-### B.Tech — Computer Science & Engineering
+🎓 **B.Tech Computer Science & Engineering**
 
 ABES Institute of Technology
 
@@ -234,7 +232,7 @@ ABES Institute of Technology
 
 ---
 
-### Diploma — Computer Science & Engineering
+🎓 **Diploma Computer Science & Engineering**
 
 Jawaharlal Nehru Polytechnic
 
@@ -242,36 +240,83 @@ Jawaharlal Nehru Polytechnic
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brahmanand09&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=brahmanand09&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=brahmanand09&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=brahmanand09&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=brahmanand09&layout=compact&theme=tokyonight"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahmanand09&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🤝 Connect
-
-📧 **Email:** brahmanandmoury@gmail.com
-
-🌐 **Portfolio:** https://brahmanand-portfolio.vercel.app
-
-💼 **LinkedIn:** https://linkedin.com/in/brahmanand09
-
----
+# 📈 Contribution Graph
 
 <p align="center">
 
-*"First, solve the problem. Then, write clean, scalable code."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brahmanand09&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=brahmanand09&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brahmanand09&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ☕ Fun Fact
+
+```text
+while(alive){
+    Learn();
+    Build();
+    Optimize();
+    Repeat();
+}
+```
+
+---
+
+<h3 align="center">
+
+⭐ If you like my work, consider starring my repositories ⭐
+
+</h3>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=brahmanand09&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+
+</p>
+
+<h2 align="center">
+
+Thanks for visiting ❤️
+
+Happy Coding 🚀
+
+</h2>
