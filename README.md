@@ -1,118 +1,85 @@
 <h1 align="center">Hi 👋, I'm Brahmanand Mourya</h1>
-<h3 align="center">Full-Stack Developer (MERN) | Node.js Backend Engineer </h3>
+<h3 align="center">SDE-I at Sarrthi IAS (Physics Wallah) | Full-Stack Developer | Backend Specialist</h3>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center">
+  <a href="https://linkedin.com/in/brahmanand09"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/brahmanandmourya/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/mouryabn009"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+<img align="right" width="360" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding GIF">
 
 ---
 
 ## 🚀 About Me
 
-🔭 Backend & Full-Stack Developer specializing in HTML, CSS (BootStrap and Tailwind), JavaScript, EJS, Node.js, Express.js, MongoDB, and MySQL.
+I am a **Full-Stack Developer** and **Backend Specialist** with 2+ years of experience building scalability-focused, high-performance web applications, REST APIs, and automated pipelines. 
 
-Experienced in building production-grade systems including:
-• Doctor Patient Management System (DPMS) -> OPD and IPD Both with Role-Based Access Control
-• Garment Product Management Application (GPMA)
-• Pharmacy & Inventory Management Systems (Retailer and Wholesaler with Role-Based Access Control)
+Currently, as an **SDE-I at Sarrthi IAS (Physics Wallah)**, I engineer systems that replace legacy workflows with custom serverless and database-level solutions, optimizing operational workflows and saving significant infrastructure costs.
 
-Skilled in REST API design, JWT authentication, RBAC, database optimization, and MongoDB transactions. Worked in Agile environments and implemented CI/CD pipelines using Jenkins with Docker-based deployments.
-
-Passionate about scalable architecture, performance optimization, and clean code practices.
-
-💡 Strong expertise in:
-- Frontend -> HTML, CSS (BootStrap and Tailwind), JavaScript, EJS, React.js
-- Backend -> Node.js, Express.js, MongoDB, MySQL
-- REST API Design & Optimization
-- Role-Based Access Control (RBAC)
-- JWT Authentication
-- MongoDB Transactions
-- Inventory & Billing Systems
-- Agile (Scrum) Methodology
-- CI/CD Fundamentals (Jenkins) & AWS Deployment
-
-⚡ Improved API response time by **30–45%** using indexing, pagination, and optimized queries.
+* 💡 **Core Expertise:** Building sub-200ms real-time dashboards, database indexing & query optimization, direct CRM/Cloud Telephony integrations, and serverless pipelines.
+* ⚡ **Performance Impact:** Improved API response times by **30–45%** across multiple production environments using efficient indexing, caching, and database transactions.
 
 ---
 
-## 🌱 Currently Exploring
+## 🛠️ Tech Stack & Tools
 
-- Advanced Backend Architecture
-- Core Concept
-- System Design Concepts
-- CI/CD Pipelines (Jenkins)
-- Scalable Application Design
-- Docker & Kubernet
-- Microservice
-- Redis
-- RabbitMQ
-- Socket.io
-- Cloudinary 
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js (15), TypeScript, Tailwind CSS, Vite, HTML5, CSS3, EJS, Bootstrap |
+| **Backend** | Node.js, Express.js, Serverless AWS Lambda, Cloudflare Workers, REST APIs |
+| **Databases** | PostgreSQL, Supabase, Cloudflare D1 (SQLite), MongoDB, MySQL, DynamoDB |
+| **Object Storage** | Cloudflare R2 (S3-compatible), Cloudinary |
+| **Integrations** | Zoho CRM Webhooks, Exotel Telephony API, Zoom Server-to-Server OAuth |
+| **DevOps & Tools** | Git, GitHub, Docker, Jenkins (CI/CD), Postman, Jira, WinSCP |
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Featured Projects
 
-### 👨‍💻 Backend
-Node.js | Express.js | REST APIs | JWT | MongoDB | MySQL | Mongoose
+### 📞 Zoho CRM & Exotel Call Analytics Dashboard
+* **Stack:** Next.js 15, Supabase, Zoho CRM, Exotel API, Tailwind CSS
+* **Overview:** A real-time analytics portal tracking **10,000+ daily call logs** and counselor metrics.
+* **Achievements:** Replaced legacy Sheets/Apps Script with Supabase PostgreSQL indexed views (sub-200ms aggregations) and designed a cryptographic `fingerprint` hashing algorithm for zero-duplicate logs.
 
-### 🎨 Frontend
-HTML | CSS | EJS | React.js | Bootstrap | Tailwind CSS
+### 🎥 Zoom Evaluation Portal & Video Archive
+* **Stack:** React.js, Cloudflare Workers, Cloudflare D1 (SQLite), Cloudflare R2, Zoom API
+* **Overview:** A serverless web application that automatically syncs and streams Zoom cloud recordings.
+* **Achievements:** Bypassed Zoom's default 30-day storage limits for lifetime permanent backups on Cloudflare R2. Integrated custom range-request streaming APIs.
 
-### ⚙️ Tools & Practices
-Git | GitHub | Jira | Postman | Agile (Scrum) | CI/CD Basics | AWS | WinSCP
-
----
-
-## 📌 Featured Work
-
-🏥 **Digital Pharmacy Management System**  
-✔ Batch-level Inventory Management  
-✔ Invoice Locking & Returns  
-✔ Patient Ledger System  
-✔ Multi-User Role-Based Portal  
-✔ Sales Dashboard with Graph Analytics  
-
-📄 **Automated Medical PDF Report Generator**  
-✔ Multi-page Dynamic Reports  
-✔ PDF Merging (PDFKit + pdf-lib)  
-✔ Watermarks, Tables & Structured Layouts  
+### 🚀 Sales & Mentorship Management Portal
+* **Stack:** React.js, AWS DynamoDB, AWS Cognito, AWS SES, Node.js, Recharts
+* **Overview:** An enterprise-grade workflow tracker for student batch allocations and sales analytics.
+* **Achievements:** Built an intelligent auto-batching algorithm using DynamoDB count tracking, integrated role-based auth via Cognito, and automated student onboarding via CSV parses.
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Currently Exploring & Mastering
 
-<p align="left">
-<a href="https://www.linkedin.com/in/brahmanand09/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+- Advanced System Design & Microservice Architectures
+- Redis (Caching & Message Queues) & RabbitMQ
+- Docker & Kubernetes Orchestration
+- Advanced Cloud Infrastructures (AWS & Cloudflare Ecosystems)
 
-<a href="https://instagram.com/brahma_090203" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+---
 
-<a href="https://leetcode.com/brahmanandmourya/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
+## 📫 Let's Connect
 
-<a href="https://auth.geeksforgeeks.org/user/mouryabn009" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
+* 🌐 **Portfolio:** [brahmanand-portfolio.vercel.app](https://brahmanand-portfolio.vercel.app/)
+* 📧 **Email:** brahmanandmoury@gmail.com
+* 💼 **LinkedIn:** [brahmanand09](https://www.linkedin.com/in/brahmanand09/)
+* 📸 **Instagram:** [@brahma_090203](https://instagram.com/brahma_090203)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brahmanand09&show_icons=true&theme=tokyonight&locale=en" alt="Brahmanand's GitHub Stats" />
 </p>
 
-📧 Email: brahmanandmoury@gmail.com  
-🌐 Portfolio: https://brahmanand-portfolio.vercel.app/
-
----
-
-## 📊 GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brahmanand09&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=brahmanand09&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahmanand09" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brahmanand09&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brahmanand09&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
 </p>
