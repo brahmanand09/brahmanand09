@@ -100,14 +100,6 @@
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=brahmanand09&style=for-the-badge"/>
-
-</p>
-
----
-
 <h2 align="center">
 
 🤝 Let's Connect
