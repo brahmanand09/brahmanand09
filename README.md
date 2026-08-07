@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<a href="https://brahmanand-portfolio.vercel.app">
+<a href="https://brahmanand-portfolio.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
