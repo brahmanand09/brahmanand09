@@ -42,7 +42,7 @@
 - 🚀 **2+ Years** building scalable production applications
 - ⚙️ Backend Engineering • Full Stack Development • Cloud Architecture
 - 📊 Real-Time Dashboards • REST APIs • Database Optimization
-- ☁️ AWS • Cloudflare • PostgreSQL • Redis • Supabase
+- ☁️ AWS • Cloudflare • PostgreSQL • Redis • Supabase • Docker
 - 🌱 Learning **System Design**, **Distributed Systems** & **Kubernetes**
 
 <br>
