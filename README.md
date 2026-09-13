@@ -1,5 +1,4 @@
 <!-- ========================= Banner ========================= -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2563EB,100:0F172A&text=Brahmanand%20Mourya&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20|%20Backend%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58"/>
 </p>
@@ -127,5 +126,4 @@
 <h3 align="center">
 
 ⭐ Thanks for visiting my profile! ⭐
-
 </h3>
