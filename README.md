@@ -42,7 +42,7 @@
 - ⚙️ Backend Engineering • Full Stack Development • Cloud Architecture
 - 📊 Real-Time Dashboards • REST APIs • Database Optimization
 - ☁️ AWS • MongoDB • Cloudflare • PostgreSQL • Redis • Supabase • Docker • Jenkins(CI/CD)
-- 🌱 Learning **System Design**, **Distributed Systems** & **Kubernetes**
+- 🌱 Learning **System Design**, **Distributed Systems**
 
 <br>
 
