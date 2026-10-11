@@ -64,7 +64,7 @@ I'm a Software Development Engineer focused on building scalable backend systems
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=brahmanand09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=brahmanand09&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=brahmanand09&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahmanand09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
 
