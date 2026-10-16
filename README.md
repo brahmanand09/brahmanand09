@@ -19,7 +19,7 @@
 
 I'm a Software Development Engineer focused on building scalable backend systems, reliable APIs, and production-ready full-stack applications.
 
-- 💼 **SDE-I at Sarrthi IAS (Physics Wallah)"
+- 💼 **SDE-I** at Sarrthi IAS (Physics Wallah)"
 - 🚀 2+ years of software development experience
 - ⚙️ Backend engineering, API design, and full-stack development
 - 🗄️ Database optimization, integrations, and automation
