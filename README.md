@@ -55,8 +55,6 @@ I'm a Software Development Engineer focused on building scalable backend systems
 | Process Automation | Reduced repetitive manual operations |
 | Cost Optimization | ₹50K–₹60K monthly savings |
 
-*Impact figures reflect the project metrics supplied in this profile and should be verified before publication.*
-
 ---
 
 ## 📊 GitHub Analytics
