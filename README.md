@@ -48,7 +48,7 @@ I'm a Software Development Engineer focused on building scalable backend systems
 
 | Area | Impact |
 |---|---|
-| CRM Analytics | Dashboards supporting 10K+ daily calls |
+| CRM Analytics | Dashboards supporting 12K+ daily calls |
 | API Optimization | 30–45% faster response times |
 | Database Performance | Sub-200ms queries |
 | Cloud & Serverless | AWS Lambda and Cloudflare Workers |
